@@ -1,6 +1,6 @@
  # Literature Review: Aerial-Prior Ground Robot Navigation
 
-Summary of two papers on using aerial (UAV) data to assist ground robot navigation — prepared as background reading for the SAFiR Lab / Mitacs Globalink project on resource-aware robotic exploration using aerial priors.
+Summary of two papers on using aerial (UAV) data to assist ground robot navigation 
 
 ---
 
